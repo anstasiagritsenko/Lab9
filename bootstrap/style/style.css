@@ -1,0 +1,174 @@
+body{
+    margin: 0;  
+	padding: 0;	
+	font-family: Jost !important;
+}
+a {
+	text-decoration:none !important;
+	margin:0 !important;
+	padding:0 !important;
+}
+}a:hover {
+	color:#cd0e0e !important;
+	text-decoration:none !important;
+}
+.mk {
+	margin: 0 0 0 20px ;
+}
+.screen1{
+    background: url(../img/fonn.png) no-repeat left top, #9a1212!important;
+	padding: 0 50px 0 0;
+	
+}
+@media(max-width:1200px){
+	.screen1{
+    background: #9a1212 !important;
+    background-size: cover;
+	}
+	h1 {
+		font-size:14 !important;
+	}
+	.list2 {
+	max-height:700px; 
+	left:5%;
+
+}
+}
+@media(max-width:400px){
+	.text1 .text2 .text3    {
+		font-size:14 !important;
+	}
+	.text_new {
+		font-size:20px !important;	
+		text-align:center;
+		letter-spacing: 2px ;
+	}
+	.img_c {
+		width:50px!important;
+	}
+}
+.bgrow{
+    background: #9a1212;
+    height: 25px;
+}
+header{
+    background: #9a1212;
+    margin: 0 0 8px 0;
+    padding: 58px 0 0 0;
+}
+.bt1{
+    border-radius: 20px !important;
+    height:35px !important;
+    width:120px !important;
+	margin: 0 0 15px 0 !important;
+}
+.text1{
+    margin: 0;
+	text-align:right;
+}
+.text2{
+    font-size: 64px
+}
+.text3{
+    font-size: 96px
+}
+.text4{
+    font-size: 18px
+}
+.text5{
+    font-size: 29px;
+	text-align:right;
+}
+.text6{
+    font-size: 24px;
+	text-align:right;
+	color: #9A1212;
+}
+.text7{
+    font-size: 32px;
+	text-align:right;
+	padding:15px;
+}
+.htext {
+	margin:0 0 15px 15px;
+	width:50% !important;
+}
+.list{
+	background: url(../img/list.png) no-repeat;
+	height: 555px;
+}
+.gray_stripe {
+	margin:0;
+	width:100%;
+}
+.list2 {
+	position: absolute; 
+	left:25%;
+
+}
+.list3 {
+	position: absolute; 
+	top:40%;
+	z-index:1;
+
+}
+.list4 {
+	position: absolute; 
+	top:55%;
+	z-index:1;
+	right:0;
+
+}
+footer{
+    background: #F3F3F3;
+    font-size: 24px;
+    padding: 10px 20px;
+	position: relative;
+    bottom: -100px;
+	z-index:-1 !important;
+	width:100%;
+	margin:0 !important;
+}
+.text_new {
+	font-size: 90px; 
+	text-align:center;
+	letter-spacing: 25px;
+	margin: 0 0 25px 0;
+}
+.img_c{
+    padding: 0px !important;
+    margin:0 !important;
+}
+.text_c {
+	font-size: 27px;
+    color: #9a1212;
+    text-align: center;
+}
+.carm {
+	padding:0 0 0 70px !important;
+}
+.carm2 {
+	padding:0 0 0 10px !important;
+}
+.bt2{
+    background: #9a1212 !important;
+    border-radius: 40px !important;
+    height:70px !important;
+    width:300px !important;
+	color:#fff !important;
+	margin:0 0 10px 0;
+}
+.sostav{
+    background: #9a1212;
+    border-radius: 50px;
+    width: 750px !important;
+	height:370px;
+	margin:0;
+}
+.sous {
+	height:375px;
+	margin:0;
+}
+.logo {
+	margin:0 15px 15px 0;
+}
